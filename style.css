@@ -48,6 +48,12 @@ search button {
     font-size: 22px;
     font-weight: bold;
 }
+p#responseStatusText {
+    width: 1035px;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
 
 pre#responseBodyText {
     width: 100%;
